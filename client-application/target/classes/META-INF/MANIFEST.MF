@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: client-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.plighting.microservices
+Build-Jdk: 1.7.0_55
+Built-By: 310184040
+Created-By: Maven Integration for Eclipse
+
